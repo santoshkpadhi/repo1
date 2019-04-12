@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("!!!Hello World Demo!!!"); /* prints !!!Hello World!!! */
+	puts("!!!Hello World Demo --version2!!!"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
